@@ -11,7 +11,7 @@
 
 ## 🧑‍💼 About Me
 
-I’m a *final-year Computer Science (AI & ML)* engineering student from *PES College of Engineering, Mandya, with a strong passion for building intelligent solutions that solve real-world problems. From fraud detection to smart attendance systems, I strive to blend **machine learning, **deep learning, and **clean UI deployment* into every project.
+I’m a *final-year Computer Science (AI & ML)* engineering student from *PES College of Engineering, Mandya, with a strong passion for building intelligent solutions that solve real-world problems. I strive to blend **machine learning, **deep learning, and **clean UI deployment* into every project.
 
 I’m experienced in:
 - 🤖 Developing ML/DL models with practical business value
