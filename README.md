@@ -1,120 +1,81 @@
 <!-- README.md for Hisham-ul-Hakeem -->
 
 <h1 align="center">Hi 👋, I'm Hisham-ul-Hakeem</h1>
-<h3 align="center">🚀 AI & ML Engineer | Computer Vision | Model Deployment | Generative AI | Final-Year CSE Student</h3>
+<h3 align="center">💡 AI & ML Engineer | Data Explorer | Streamlit Developer | Final-Year Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=AI+%7C+ML+%7C+DL+%7C+CV+%7C+NLP+%7C+Deployment;Creating+Real-World+AI+Solutions+with+Impact;Final+Year+CSE+(AI+%26+ML)+Student+%7C+Engineer+by+Mind%2C+Artist+by+Passion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Creating+Impact+with+Code+%7C+ML+%7C+CV+%7C+NLP+%7C+Deployment;Turning+Data+into+Smart+Solutions+%F0%9F%94%A1;Exploring+Possibilities+with+AI+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💼 About Me
+## 🧑‍💻 About Me
 
 I’m a *final-year Computer Science (AI & ML)* engineering student from *PES College of Engineering, Mandya, with a strong passion for building intelligent solutions that solve real-world problems. I strive to blend **machine learning, **deep learning, and **clean UI deployment* into every project.
 
-I’m experienced in:
-- 🤖 Developing ML/DL models with practical business value
-- 🧠 Working with Computer Vision and NLP
-- 🌐 Deploying ML apps using Streamlit & Flask
-- 📈 Visualizing and interpreting data using pandas, seaborn, matplotlib
-- 🧑‍🏫 Internships, competitions, and research-focused learning
-
-I constantly thrive in a fast-paced, learning-rich environment. Every repo here is a piece of my growth and passion.
-
 ---
 
-## 🧠 Tech Stack
+## 🛠 Tech Stack
 
-### 👨‍💻 Programming & ML Libraries
+### 🧾 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%2300748F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+### 📚 Libraries & Frameworks
+<p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLTK-9FBC60?style=for-the-badge&logo=nltk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
-### 🛠 Tools & Frameworks
+### 🧠 Core Concepts
 <p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-%2300C7B7?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-%23FF006E?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-%23007ACC?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-%23CB3837?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model%20Deployment-%2300748F?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG%20%26%20GenAI-%236620EE?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 ---
 
-## 🌍 Languages I Speak
+## 🚀 Project Showcase
 
-- English ✅  
-- Hindi ✅  
-- Tamil ✅  
-- Urdu ✅  
-- Kannada ✅  
-- Malayalam ✅  
-
----
-
-## 💼 Experience
-
-*AI Intern – Personify (Remote)*  
-📅 May 2025 – July 2025  
-- Developed a CNN model for landmark classification using the Google Landmark v1 dataset.  
-- Built an automated preprocessing pipeline for streamlined training.  
-- Achieved 87% validation accuracy on pet-breed classification using ResNet-50 + data augmentation.
+| 🧠 Project | 🌟 Description |
+|-----------|----------------|
+| [🎓 Smart Attendance System](https://github.com/Hishamulhakeem/Smart-attendance-system) | Real-time face detection system with ResNet embeddings & WhatsApp alerts. Reduced manual effort by 80%. |
+| [📄 AI Resume Matcher](https://github.com/Hishamulhakeem/AI-Resume-Matcher) • [Live Demo](https://ai-resume-matcher.streamlit.app/) | Compares resumes & job descriptions using TF-IDF + cosine similarity. Outputs match score with smart insights. |
+| [⛅ Weather Forecast App](https://github.com/Hishamulhakeem/Weather-Prediction) • [Live Demo](https://hisham-wetherpred.streamlit.app/) | ML-powered weather forecast system trained on multiple geographies with clean Streamlit UI. |
+| [🏠 House Price Prediction](https://github.com/Hishamulhakeem/house-price-prediction) | Predicts housing prices with engineered features & regression models. |
+| [🛡 Credit Card Fraud Detection](https://github.com/Hishamulhakeem/credit-card-fraud-detection) | Ensemble ML model designed to catch anomalies in financial transactions. |
+| [👨‍💻 Google Account UI Clone](https://github.com/Hishamulhakeem/GOOGLE-ACCOUNT-CREATION-CLONE) | JavaFX-based UI replica with clean form validation and user flow logic. |
 
 ---
 
-## 📌 Featured Projects
+## 🌐 Languages I Speak
 
-| Project | Tech Stack | Highlights |
-|--------|------------|------------|
-| [🎓 Smart Attendance System](https://github.com/Hishamulhakeem/Smart-attendance-system) | Python, OpenCV, Flask | Face detection with ResNet, live logging, CSV export, proxy detection |
-| [📄 AI Resume Matcher](https://github.com/Hishamulhakeem/AI-Resume-Matcher) • [Live Demo](https://ai-resume-matcher.streamlit.app/) | Streamlit, TF-IDF, Cosine Similarity | Compares resumes and job descriptions semantically |
-| [⛅ Weather Prediction](https://github.com/Hishamulhakeem/Weather-Prediction) • [Live Demo](https://hisham-wetherpred.streamlit.app/) | RandomForest, Feature Engineering | ±3°C prediction using cleaned weather data |
-| [🏠 House Price Prediction](https://github.com/Hishamulhakeem/house-price-prediction) | Regression Models, Sklearn | Predicts real estate prices from historical data |
-| [🛡 Credit Card Fraud Detection](https://github.com/Hishamulhakeem/credit-card-fraud-detection) | Ensemble Models | Detects transaction fraud using ML models |
-| [👨‍💻 Google Account UI Clone](https://github.com/Hishamulhakeem/GOOGLE-ACCOUNT-CREATION-CLONE) | JavaFX | UI prototype with form validation and responsive design |
-
----
-
-## 🎓 Education
-
-*PES College of Engineering, Mandya*  
-B.E. in Computer Science (AI & ML)  
-📅 2022 – 2026 | *CGPA:* 7.6
-
-*St. Philomena's PU College*  
-PCMB | Class 12  
-📅 2020 – 2022 | *84%*
+<p>
+  <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logo=language&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hindi-Fluent-orange?style=for-the-badge&logo=language&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tamil-Fluent-yellow?style=for-the-badge&logo=language&logoColor=white" />
+  <img src="https://img.shields.io/badge/Urdu-Fluent-green?style=for-the-badge&logo=language&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kannada-Conversational-purple?style=for-the-badge&logo=language&logoColor=white" />
+  <img src="https://img.shields.io/badge/Malayalam-Conversational-teal?style=for-the-badge&logo=language&logoColor=white" />
+</p>
 
 ---
 
-## 📜 Certifications
-
-- 🎖 [Generative AI - GUVI](http://www.guvi.in/certificate?id=141O1h77m7K7LVo37Q)
-- 🎖 [RAG - GUVI](http://www.guvi.in/certificate?id=638151g7mT5665f8P4)
-- 🎖 [Use Generative AI for Software Development - IBM SkillsBuild](https://drive.google.com/file/d/1eeHI-LebADQXiOI-F_cweRJGFrUQNHer/view?usp=sharing)
-- 🎖 [Introduction to Generative AI - Google Cloud](https://www.cloudskillsboost.google/public_profiles/ccb403bb-8b09-43c0-ac12-33d1c9740780/badges/13983577)
-- 🎖 [Intro to Large Language Models - Google Cloud](https://www.cloudskillsboost.google/public_profiles/ccb403bb-8b09-43c0-ac12-33d1c9740780/badges/13984065)
-
----
-
-## 🏆 Achievements
-
-- 🥈 *2nd Place* – Prompt War AI Prompt Design Hackathon (PESCE)
-- 🌟 Completed 10+ hands-on AI/ML projects with real-world relevance
-- 💬 Strong communication across 6 languages
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hishamulhakeem&show_icons=true&theme=radical" width="49%" />
@@ -140,7 +101,9 @@ PCMB | Class 12
 
 ---
 
-> “Build not just models, but impact.”  
-> “Stay curious. Keep shipping.”
+## 💬 Philosophy
 
-⭐ Thank you for visiting my profile! If you like what you see, leave a ⭐ on my projects or drop me a message.
+> "Code with clarity. Build with intent. Deploy with pride."  
+> "Great ideas are born where curiosity meets code."
+
+⭐ Thanks for visiting! Star ⭐ your favorite repo or drop a message if we vibe on ideas!
