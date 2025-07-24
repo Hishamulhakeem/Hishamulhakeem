@@ -1,7 +1,7 @@
 <!-- README.md for Hisham-ul-Hakeem -->
 
 <h1 align="center">Hi 👋, I'm Hisham-ul-Hakeem</h1>
-<h3 align="center">💡 AI & ML Engineer | Data Explorer | Streamlit Developer | Final-Year Engineering Student</h3>
+<h3 align="center">💡 AI & ML Engineer | Data Explorer | AI & ML Developer | Final-Year Engineering Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Creating+Impact+with+Code+%7C+ML+%7C+CV+%7C+NLP+%7C+Deployment;Turning+Data+into+Smart+Solutions+%F0%9F%94%A1;Exploring+Possibilities+with+AI+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
