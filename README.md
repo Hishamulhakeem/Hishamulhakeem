@@ -49,18 +49,7 @@ I’m a *final-year Computer Science (AI & ML)* engineering student from *PES Co
 
 ---
 
-## 🚀 Project Showcase
 
-| 🧠 Project | 🌟 Description |
-|-----------|----------------|
-| [🎓 Smart Attendance System](https://github.com/Hishamulhakeem/Smart-attendance-system) | Real-time face detection system with ResNet embeddings & WhatsApp alerts. Reduced manual effort by 80%. |
-| [📄 AI Resume Matcher](https://github.com/Hishamulhakeem/AI-Resume-Matcher) • [Live Demo](https://ai-resume-matcher.streamlit.app/) | Compares resumes & job descriptions using TF-IDF + cosine similarity. Outputs match score with smart insights. |
-| [⛅ Weather Forecast App](https://github.com/Hishamulhakeem/Weather-Prediction) • [Live Demo](https://hisham-wetherpred.streamlit.app/) | ML-powered weather forecast system trained on multiple geographies with clean Streamlit UI. |
-| [🏠 House Price Prediction](https://github.com/Hishamulhakeem/house-price-prediction) | Predicts housing prices with engineered features & regression models. |
-| [🛡 Credit Card Fraud Detection](https://github.com/Hishamulhakeem/credit-card-fraud-detection) | Ensemble ML model designed to catch anomalies in financial transactions. |
-| [👨‍💻 Google Account UI Clone](https://github.com/Hishamulhakeem/GOOGLE-ACCOUNT-CREATION-CLONE) | JavaFX-based UI replica with clean form validation and user flow logic. |
-
----
 
 ## 🌐 Languages I Speak
 
