@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a *final-year Computer Science (AI & ML)* engineering student from *PES College of Engineering, Mandya, with a strong passion for building intelligent solutions that solve real-world problems. I strive to blend Machine learning, Deep learning, and Clean UI deployment into every project.
+I’m a *final-year Computer Science (AI & ML)* engineering student from PES College of Engineering, Mandya, with a strong passion for building intelligent solutions that solve real-world problems. I strive to blend Machine learning, Deep learning, and Clean UI deployment into every project.
 
 ---
 
@@ -54,23 +54,17 @@ I’m a *final-year Computer Science (AI & ML)* engineering student from *PES Co
 ## 🌐 Languages I Speak
 
 <p>
-  <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logo=language&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hindi-Fluent-orange?style=for-the-badge&logo=language&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tamil-Fluent-yellow?style=for-the-badge&logo=language&logoColor=white" />
-  <img src="https://img.shields.io/badge/Urdu-Fluent-green?style=for-the-badge&logo=language&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kannada-Conversational-purple?style=for-the-badge&logo=language&logoColor=white" />
-  <img src="https://img.shields.io/badge/Malayalam-Conversational-teal?style=for-the-badge&logo=language&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-blue?style=for-the-badge&logo=language&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hindi-orange?style=for-the-badge&logo=language&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tamil-yellow?style=for-the-badge&logo=language&logoColor=white" />
+  <img src="https://img.shields.io/badge/Urdu-green?style=for-the-badge&logo=language&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kannada-purple?style=for-the-badge&logo=language&logoColor=white" />
+  <img src="https://img.shields.io/badge/Malayalam-teal?style=for-the-badge&logo=language&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hishamulhakeem&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hishamulhakeem&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hishamulhakeem&layout=compact&theme=radical" width="49%" />
-</p>
 
 ---
 
