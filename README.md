@@ -11,13 +11,13 @@
 
 ## 🧑‍💻 About Me
 
-I’m a *final-year Computer Science (AI & ML)* engineering student from PES College of Engineering, Mandya, with a strong passion for building intelligent solutions that solve real-world problems. I strive to blend Machine learning, Deep learning, and Clean UI deployment into every project.
+I'm a *final-year Computer Science (AI & ML)* engineering student from PES College of Engineering, Mandya, with a strong passion for building intelligent solutions that solve real-world problems. I strive to blend Machine Learning, Deep Learning, and Clean UI deployment into every project.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🧾 Programming Languages
+### 🗞 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=yellow" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -49,10 +49,7 @@ I’m a *final-year Computer Science (AI & ML)* engineering student from PES Col
 
 ---
 
-
-
 ## 🌐 Languages I Speak
-
 <p>
   <img src="https://img.shields.io/badge/English-blue?style=for-the-badge&logo=language&logoColor=white" />
   <img src="https://img.shields.io/badge/Hindi-orange?style=for-the-badge&logo=language&logoColor=white" />
@@ -63,20 +60,16 @@ I’m a *final-year Computer Science (AI & ML)* engineering student from PES Col
 </p>
 
 ---
+
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hishamulhakeem&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hishamulhakeem&theme=radical" width="49%" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Hishamulhakeem&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hishamulhakeem&theme=radical" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hishamulhakeem&layout=compact&theme=radical" width="49%" />
 </p>
 
 ---
-
-![GitHub Stars](https://img.shields.io/github/stars/Hishamulhakeem?style=social)
-![GitHub Pull Requests](https://badgen.net/badge/PRs/your_count/green)
-
-
 
 ## 🤝 Let's Connect
 
@@ -99,4 +92,4 @@ I’m a *final-year Computer Science (AI & ML)* engineering student from PES Col
 > "Code with clarity. Build with intent. Deploy with pride."  
 > "Great ideas are born where curiosity meets code."
 
-⭐ Thanks for visiting! Star ⭐ your favorite repo or drop a message if we vibe on ideas!
+⭐ Thanks for visiting! Star ⭐ your favorite repo or drop a message if we vibe on ideas!
