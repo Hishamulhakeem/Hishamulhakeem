@@ -91,5 +91,3 @@ I'm a *final-year Computer Science (AI & ML)* engineering student from PES Colle
 
 > "Code with clarity. Build with intent. Deploy with pride."  
 > "Great ideas are born where curiosity meets code."
-
-⭐ Thanks for visiting! Star ⭐ your favorite repo or drop a message if we vibe on ideas!
