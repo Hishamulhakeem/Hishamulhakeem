@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a *final-year Computer Science (AI & ML)* engineering student from PES College of Engineering, Mandya, with a strong passion for building intelligent solutions that solve real-world problems. I strive to blend Machine Learning, Deep Learning, and Clean UI deployment into every project.
+I'm a B.E. graduate in Artificial Intelligence & Machine Learning from PES College of Engineering, building a career as an AI Engineer and Computer Vision Engineer. My focus is on designing and deploying deep learning systems that solve real problems — from perception pipelines to generative AI workflows.
 
 ---
 
